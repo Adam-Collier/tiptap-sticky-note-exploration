@@ -1,4 +1,4 @@
-import { defineConfig } from "unocss";
+import { defineConfig } from 'unocss'
 
 export default defineConfig({
   // ...UnoCSS options
@@ -12,4 +12,4 @@ export default defineConfig({
       // exclude: []
     },
   },
-});
+})
